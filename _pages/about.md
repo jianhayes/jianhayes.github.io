@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "GitHub Pages for JIANHANG"
+title: "Academic Pages for JIANHANG"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,11 +18,12 @@ My academic advisor are [Prof. Li](http://faculty.bjtu.edu.cn/8408/) and [Prof. 
 Our Lab is Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, Beijing. [Prof. Li](http://faculty.bjtu.edu.cn/9721/) is the boss of our lab.
 Our Team is about Edge Intelligence. Leader is [Prof. Ding](http://faculty.bjtu.edu.cn/9721/).
 
-[Email](xiejianhang@bjtu.edu.cn) / [Github](https://github.com/jianhayes) [Lab]()
+[Email](xiejianhang@bjtu.edu.cn) / [Github](https://github.com/jianhayes) /Team (coming soon)
 
 For more info
 ------
-More info about our team can be found soon.
+More info about our team can be found soon. 
+Github Pages theme is forked from [academicpages](https://github.com/academicpages/academicpages.github.io).
 <!--might also be helpful.-->
 
 <!--
