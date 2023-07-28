@@ -15,9 +15,7 @@ I'm Xie Jianhang, a PG student from [School of CIT](http://scit.bjtu.edu.cn/), [
 My research interest includes **Model Compression**(*Neural Network Quantization*), **Edge Intelligence**(*Lightweight Neural Network*) and **High-Performance Computing**(*Heterogeneous Computing*).
 
 My PG academic advisors are [Prof. Li](http://faculty.bjtu.edu.cn/8408/) and [Prof. Ding](http://faculty.bjtu.edu.cn/9721/). 
-
-Our Lab is Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, Beijing. [Prof. Li](http://faculty.bjtu.edu.cn/9721/) is the laboratory boss.
-
+Our Lab is Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, Beijing. [Prof. Li](http://faculty.bjtu.edu.cn/8408/) is the laboratory boss.
 Our Team is about Edge Intelligence. Leader is [Prof. Ding](http://faculty.bjtu.edu.cn/9721/).
 
 [Email](xiejianhang@bjtu.edu.cn) / [Github](https://github.com/jianhayes) / Team (coming soon)
