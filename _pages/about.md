@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "JIANHANG ACADEMIC SPACE"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,19 +10,26 @@ redirect_from:
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
 
-I'm Jianhang Xie（谢建行）, a master student from [School of CIT](http://scit.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/) (BJTU).
-
-My research interest includes **Model Compression**(*Neural Network Quantization*), **Edge Intelligence**(*Lightweight Neural Network*) and **High-Performance Computing**(*Heterogeneous Computing*).
-
-My PG academic advisors are [Prof. Li](http://faculty.bjtu.edu.cn/8408/) and [Prof. Ding](http://faculty.bjtu.edu.cn/9721/). 
-Our Lab is Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, Beijing. [Prof. Li](http://faculty.bjtu.edu.cn/8408/) is the laboratory boss.
-Our [Team](https://bjtuedgeintell.github.io/) is about Edge Intelligence. Leader is [Prof. Ding](http://faculty.bjtu.edu.cn/9721/).
-
-For more info
+About Me
 ------
-More info about me or our team can see links below, which might also be helpful. Github Pages theme is forked from [academicpages](https://github.com/academicpages/academicpages.github.io).
+I'm Jianhang Xie（谢建行）, a graduate student from [School of Computer and IT](http://scit.bjtu.edu.cn/), [Beijing Jiaotong University(BJTU)](https://www.bjtu.edu.cn/). I received the B.Eng. degree in computer science and technology from BJTU, Beijing, China, in 2022. I am curruntly working toward a master's degree with BJTU. 
 
-[Email](xiejianhang@bjtu.edu.cn) / [Github](https://github.com/jianhayes) / [Team](https://bjtuedgeintell.github.io/)
+About Laboratory and Research 
+------
+My graduate academic advisors are [Prof. Yidong Li](http://faculty.bjtu.edu.cn/8408/) and [Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/). 
+
+I am also a graduate student member in [Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education(BATLab)](http://batlab.bjtu.edu.cn/), and Prof. Yidong Li is the boss of BATLab.
+Our [reasearch team](https://bjtuedgeintell.github.io/) is about the theme of Edge Intelligence, and the leader is Dr. Chuntao Ding.
+
+My research interests include **Edge Intelligence**, **Model Compression** (*Deep Neural Network Quantization*), and **High-Performance Computing**.
+
+For More Information
+------
+More information about me can see links below, which might also be helpful. 
+
+Github Pages theme is forked from [academicpages](https://github.com/academicpages/academicpages.github.io).
+
+[Email](xiejianhang@bjtu.edu.cn) / [Github](https://github.com/jianhayes) 
 
 <!--
 
