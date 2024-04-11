@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jianhang Xie Academic Space"
+title                    : "Homepage of J.Xie"
 title_separator          : "-"
 name                     : &name "Jianhang Xie"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianhang"
-  avatar           : "jhx.png"
-  bio              : "A graduate student in computer science and technology."
+  name             : "Jianhang Xie"
+  avatar           :
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
