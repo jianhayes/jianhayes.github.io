@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2021: Guest Student
-  * Parallel Software Research Group, State Key Laboratory of Computer Architecture, ICT, Chinese Academy
-  * Duties included: image processing algorithm library development with GPU programming (using OpenCL) in PerfXLab
-  * Supervisor: Haipeng Jia
+* 2021.7-2021.9: Guest Student
+  * Parallel Software Research Group, State Key Laboratory of Computer Architecture, Institute of Computing Technology(ICT), Chinese Academy of Sciences
+  * Duties: APU/GPU Parallel Algorithm Porting and Performance Optimization, with OpenCL and AMD APU, for the image processing library of PerfXLab (Beijing) Technologies Co., Ltd.
+  * Supervisor: Haipeng Jia, Xianyi Zhang
 
 Skills
 ======
@@ -28,14 +28,12 @@ Skills
 * Python
 * Deep Learning
   * PyTorch
-  * ONNX
-  * [NCNN](https://github.com/Tencent/ncnn/)
-* CUDA
+  * ONNX, ONNX Runtime, NCNN
 
+<!--
 Publications
 ======
-coming soon.
-
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  -->
