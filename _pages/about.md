@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ------
-**This is just a test page**. I'm Jianhang Xie, a graduate student from [School of Computer and IT](http://scit.bjtu.edu.cn/), [Beijing Jiaotong University(BJTU)](https://www.bjtu.edu.cn/). I received the B.Eng. degree in computer science and technology from BJTU, Beijing, China, in 2022. I am curruntly working toward a master's degree with BJTU. 
+**This is just a TEST HOMEPAGE**. I'm Jianhang Xie, a graduate student from [School of Computer Science and Technology](http://cs.bjtu.edu.cn/), [Beijing Jiaotong University(BJTU)](https://www.bjtu.edu.cn/). I received the B.Eng. degree in Computer Science and Technology from BJTU, Beijing, China, in 2022. I am curruntly working toward a master's degree with BJTU. 
 
 About Laboratory and Research 
 ------
@@ -23,9 +23,13 @@ I am also a graduate student member in [Key Laboratory of Big Data & Artificial 
 Our [reasearch team](https://bjtuedgeintell.github.io/) is about the theme of Edge Intelligence, and the leader is Dr. Chuntao Ding.
 -->
 
-My research interests include **Edge Intelligence**, **Model Compression** (*Deep Neural Network Quantization*), and **High-Performance Computing**.
+My research interests include **Edge Intelligence / Edge AI**, **Model Compression**, and **High-Performance Computing**.
 
-For More Information
+Publications
+------
+**Jianhang Xie**, Chuntao Ding*, Shenyuan Ren, Yidong Li*. *Multi-Vision Services Acceleration Framework for IoT Devices*, *In IEEE ICWS*, 2024, Accepted. (CCF-B)
+
+For More Informatio
 ------
 More information about me can see links below, which might also be helpful. 
 
