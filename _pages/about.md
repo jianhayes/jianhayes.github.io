@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ------
-**This is just a TEST HOMEPAGE**. I'm Jianhang Xie, a graduate student from [School of Computer Science and Technology](http://cs.bjtu.edu.cn/), [Beijing Jiaotong University(BJTU)](https://www.bjtu.edu.cn/). I received the B.Eng. degree in Computer Science and Technology from BJTU, Beijing, China, in 2022. I am curruntly working toward a master's degree with BJTU. 
+**This is a TEST HOMEPAGE**. I'm Jianhang Xie, a graduate student from [School of Computer Science and Technology](http://cs.bjtu.edu.cn/), [Beijing Jiaotong University(BJTU)](https://www.bjtu.edu.cn/). I received the B.S. degree in Computer Science and Technology from BJTU, Beijing, China, in 2022. I am curruntly working toward a master's degree with BJTU. 
 
 About Laboratory and Research 
 ------
@@ -27,7 +27,7 @@ My research interests include **Edge Intelligence / Edge AI**, **Model Compressi
 
 Publications
 ------
-**Jianhang Xie**, Chuntao Ding*, Shenyuan Ren, Yidong Li*. *Multi-Vision Services Acceleration Framework for IoT Devices*, *In IEEE ICWS*, 2024, Accepted. (CCF-B)
+**Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li. “Multi-Vision Services Acceleration Framework for IoT Devices”, *In IEEE ICWS*, 2024, Accepted. (CCF-B)
 
 For More Informatio
 ------
