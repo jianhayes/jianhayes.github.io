@@ -15,7 +15,7 @@ Education
 * M.S. in Computer Science and Technology, School of Computer Science and Technology, Beijing Jiaotong University, China, 2025 (expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+Exchange/Work Experience
 ======
 * 2021.7-2021.9: Guest Student
   * Parallel Software Research Group, State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
