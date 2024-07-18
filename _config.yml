@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of J.Xie"
+title                    : "Homepage of Jianhang XIE"
 title_separator          : "-"
-name                     : &name "Jianhang Xie"
+name                     : &name "Jianhang XIE"
 description              : &description "personal description"
 url                      : https://jianhayes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianhang Xie"
-  avatar           :
+  name             : "Jianhang XIE"
+  avatar           : "jhx.png"
   bio              : 
   location         : "Beijing, China"
   employer         :
