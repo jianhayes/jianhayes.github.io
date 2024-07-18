@@ -29,7 +29,7 @@ Publications
 ------
 **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li. “Multi-Vision Services Acceleration Framework for IoT Devices”, *In IEEE ICWS*, 2024, Accepted. (CCF-B)
 
-For More Informatio
+For More Information
 ------
 More information about me can see links below, which might also be helpful. 
 
