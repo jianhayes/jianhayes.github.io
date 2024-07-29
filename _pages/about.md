@@ -16,7 +16,7 @@ About Me
 
 About Laboratory and Research 
 ------
-My graduate academic advisors are [Prof. Yidong Li](http://faculty.bjtu.edu.cn/8408/) and [Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/). 
+My master supervisors are [Prof. Yidong Li](http://faculty.bjtu.edu.cn/8408/) and [Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/). 
 
 <!--
 I am also a graduate student member in [Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education(BATLab)](http://batlab.bjtu.edu.cn/), and Prof. Yidong Li is the boss of BATLab.
