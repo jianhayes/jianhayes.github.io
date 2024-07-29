@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology, School of Computer and Information Technology, Beijing Jiaotong University, China, 2022
-* M.S. in Computer Science and Technology, School of Computer Science and Technology, Beijing Jiaotong University, China, 2025 (expected)
+* *School of Computer and Information Technology*, *Beijing Jiaotong University*, China, 2018-2022
+  * B.S. degree in Computer Science and Technology
+* *School of Computer Science and Technology*, *Beijing Jiaotong University*, China, 2022-2025 (expected)
+  * M.S. degree in Computer Science and Technology
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Exchange/Work Experience
+Internship/Visiting/Work Experience
 ======
-* 2021.7-2021.9: Guest Student
-  * Parallel Software Research Group, State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
-  * Duties: GPU Parallel Algorithm Optimization, via OpenCL and AMD APU, for PerfXLab (Beijing) Technologies Co., Ltd.
+* Guest Student, *Institute of Computing Technology*, *Chinese Academy of Sciences*, China, 2021.7-2021.9
+  * Department: Parallel Software Research Group, State Key Laboratory of Computer Architecture
+  * Duties: GPU Parallel Algorithm Optimization via OpenCL, for PerfXLab (Beijing) Technologies Co., Ltd.
   * Supervisor: Haipeng Jia, Xianyi Zhang
 
 Skills
