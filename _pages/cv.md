@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* ***School of Computer and Information Technology***, **Beijing Jiaotong University***, China, 2018-2022
+* ***School of Computer and Information Technology***, ***Beijing Jiaotong University***, China, 2018-2022
   * B.S. degree in Computer Science and Technology
 * ***School of Computer Science and Technology***, ***Beijing Jiaotong University***, China, 2022-2025 (expected)
   * M.S. degree in Computer Science and Technology
