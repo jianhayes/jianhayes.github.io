@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* ***School of Computer and Information Technology***, ***Beijing Jiaotong University***, China, 2018-2022
-  * B.S. degree in Computer Science and Technology
 * ***School of Computer Science and Technology***, ***Beijing Jiaotong University***, China, 2022-2025 (expected)
   * M.S. degree in Computer Science and Technology
+* ***School of Computer and Information Technology***, ***Beijing Jiaotong University***, China, 2018-2022
+  * B.S. degree in Computer Science and Technology
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Internship/Visiting/Work Experience
@@ -26,7 +26,7 @@ Internship/Visiting/Work Experience
 
 Honors & Awards
 ======
-***The 11th Parallel Application Challenge*** (PAC 2023-2024), Best Application 3rd Prize, 2024
+***The 11th Parallel Application Challenge*** (PAC 2023-2024), Best Application 3rd Prize, China, 2024
 
 Skills
 ======
@@ -34,7 +34,7 @@ Skills
 * Python
 * Deep Learning
   * PyTorch, Torch-Npu
-  * ONNX, NCNN
+  * ONNX, ncnn
 
 <!--
 Publications
