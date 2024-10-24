@@ -16,6 +16,7 @@ I'm Jianhang Xie, a master student from [School of Computer Science and Technolo
 I received the B.S. degree in Computer Science and Technology from BJTU, Beijing, China, in 2022. I am curruntly working toward a master's degree with BJTU and Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education. 
 
 <!--**This is a TEST HOMEPAGE**. -->
+
 About Laboratory and Research 
 ------
 My master supervisors are [Prof. Yidong Li](http://faculty.bjtu.edu.cn/8408/) and [Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/). 
@@ -26,7 +27,7 @@ My research interests include **Edge Intelligence / Edge AI**, **Model Compressi
 
 Publications
 ------
-**Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898, doi:10.1109/ICWS62655.2024.00107. (CCF-B)
+**Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898. (CCF-B)
 
 For More Information
 ------
