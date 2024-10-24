@@ -12,17 +12,15 @@ redirect_from:
 
 About Me
 ------
-I'm Jianhang Xie, a master student from [School of Computer Science and Technology](http://cs.bjtu.edu.cn/), [Beijing Jiaotong University(BJTU)](https://www.bjtu.edu.cn/). I received the B.S. degree in Computer Science and Technology from BJTU, Beijing, China, in 2022. I am curruntly working toward a master's degree with BJTU. 
+I'm Jianhang Xie, a master student from [School of Computer Science and Technology](http://cs.bjtu.edu.cn/), [Beijing Jiaotong University(BJTU)](https://www.bjtu.edu.cn/). 
+I received the B.S. degree in Computer Science and Technology from BJTU, Beijing, China, in 2022. I am curruntly working toward a master's degree with BJTU and Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education. 
 
 <!--**This is a TEST HOMEPAGE**. -->
 About Laboratory and Research 
 ------
 My master supervisors are [Prof. Yidong Li](http://faculty.bjtu.edu.cn/8408/) and [Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/). 
 
-<!--
-I am also a graduate student member in [Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education(BATLab)](http://batlab.bjtu.edu.cn/), and Prof. Yidong Li is the boss of BATLab.
-Our [reasearch team](https://bjtuedgeintell.github.io/) is about the theme of Edge Intelligence, and the leader is Dr. Chuntao Ding.
--->
+<!--I am also a master student member in  (BATLAB). (http://batlab.bjtu.edu.cn/) Our reasearch team is about the theme of Edge Intelligence, and the leader is Dr. Chuntao Ding. (https://bjtuedgeintell.github.io/)-->
 
 My research interests include **Edge Intelligence / Edge AI**, **Model Compression**, and **High-Performance Computing**.
 
@@ -36,7 +34,7 @@ More information about me can see links below, which might also be helpful.
 
 Github Pages theme is forked from [academicpages](https://github.com/academicpages/academicpages.github.io).
 
-[Email](xiejianhang@bjtu.edu.cn) / [Github](https://github.com/jianhayes) 
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Yb8J9tkAAAAJ) / [Github](https://github.com/jianhayes) / [DBLP](https://dblp.org/pid/388/4016.html)
 
 <!--
 
