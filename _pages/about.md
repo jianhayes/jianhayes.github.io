@@ -12,17 +12,17 @@ redirect_from:
 
 About Me
 ------
-I'm Jianhang Xie, a master student from [School of Computer Science and Technology](http://cs.bjtu.edu.cn/), [Beijing Jiaotong University(BJTU)](https://www.bjtu.edu.cn/). 
-I received the B.S. degree in Computer Science and Technology from BJTU, Beijing, China, in 2022. I am curruntly working toward a master's degree with BJTU and Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education. 
+I'm Jianhang Xie, a master student from [School of Computer Science and Technology](http://cs.bjtu.edu.cn/), [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/).  <br>
+I received the B.S. degree in Computer Science and Technology from BJTU, Beijing, China, in 2022. <br>
+I am curruntly working toward a master's degree in Computer Science and Technology with ***BJTU*** and ***Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education***, expected to graduate in 2025.  <br>
+Currently I am ***looking for a Ph.D. candidate position in 25fall/26spring/26fall***.  <br>
+If you are interested in me, please contact my email: ***xiejianhang@bjtu.edu.cn***, it would be my great honor.
 
 <!--**This is a TEST HOMEPAGE**. -->
 
 About Laboratory and Research 
 ------
-My master supervisors are [Prof. Yidong Li](http://faculty.bjtu.edu.cn/8408/) and [Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/). 
-
-<!--I am also a master student member in  (BATLAB). (http://batlab.bjtu.edu.cn/) Our reasearch team is about the theme of Edge Intelligence, and the leader is Dr. Chuntao Ding. (https://bjtuedgeintell.github.io/)-->
-
+My master supervisors are [Prof. Dr. Yidong Li](http://faculty.bjtu.edu.cn/8408/) and Dr. Chuntao Ding.  <br>
 My research interests include **Edge Intelligence / Edge AI**, **Model Compression**, and **High-Performance Computing**.
 
 Publications
