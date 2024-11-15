@@ -27,8 +27,10 @@ My research interests include **Edge Intelligence / Edge AI**, **Model Compressi
 
 Publications
 ------
-* **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proc. IEEE Int. Conf. Web Services***, 2024, pp.888-898.  <br>
-  (***IEEE ICWS***, **<font color=red>CCF-B</font>**)
+* **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proc. IEEE Int. Conf. Web Services***, 2024, pp.888-898.
+* Chuntao Ding, Xu Cao, **Jianhang Xie**, Linlin Fan, Shangguang Wang, Zhichao Lu, “LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices,” in ***ArXiv Preprint***, [arXiv:2410.16954](https://arxiv.org/abs/2410.16954).
+<!--   <br>
+  (***IEEE ICWS***, **<font color=red>CCF-B</font>**) -->
 
 For More Information
 ------
