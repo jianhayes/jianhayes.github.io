@@ -19,6 +19,9 @@ Education
 
 Internship/Visiting/Work Experience
 ======
+* Visiting Research Student, ***City University of Hong Kong (CityUHK)***, HK SAR, China, 2024.12-2025.3 (expected)
+  * Department: Department of Computer Science
+  * Supervisor: Zhichao Lu
 * Guest Student, ***Institute of Computing Technology***, ***Chinese Academy of Sciences***, China, 2021.7-2021.9
   * Department: Parallel Software Research Group, State Key Laboratory of Computer Architecture
   * Supervisor: Haipeng Jia, Xianyi Zhang
@@ -26,7 +29,7 @@ Internship/Visiting/Work Experience
 
 Honors & Awards
 ======
-* ***China National Postgraduate Scholarship***, 2024-2025
+* ***National Postgraduate Scholarship***, China, 2024-2025
 * ***The 11th Parallel Application Challenge*** (PAC 2023-2024), Best Application 3rd Prize, China, 2024
 
 Skills
