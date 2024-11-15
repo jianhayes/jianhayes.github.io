@@ -13,8 +13,8 @@ redirect_from:
 About Me
 ------
 I'm Jianhang Xie (谢建行), a master student from [School of Computer Science and Technology](http://cs.bjtu.edu.cn/), [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/).  <br>
-I received the B.S. degree in Computer Science and Technology from BJTU in 2022.
-I am curruntly working toward a master's degree in Computer Science and Technology with ***BJTU*** and ***Key Lab of Big Data & Artificial Intelligence in Transportation, MoE***, expected to graduate in 2025.  <br>
+I received the B.S. degree in Computer Science and Technology from Beijing Jiaotong University in 2022.
+I am working toward a master's degree in Computer Science and Technology with ***Beijing Jiaotong University*** and ***Key Lab of Big Data & Artificial Intelligence in Transportation, MoE***, expected to graduate in 2025.  <br>
 Currently I am ***looking for a Ph.D. candidate position in 25fall/26spring/26fall***. 
 If you are interested in me, please contact my email: ***xiejianhang@bjtu.edu.cn***, it would be my great honor.
 
@@ -22,7 +22,7 @@ If you are interested in me, please contact my email: ***xiejianhang@bjtu.edu.cn
 
 About Laboratory and Research 
 ------
-My master supervisors are [Prof. Dr. Yidong Li](http://faculty.bjtu.edu.cn/8408/) and Dr. Chuntao Ding.  <br>
+My master supervisors are [Prof. Dr. Yidong Li](http://faculty.bjtu.edu.cn/8408/) and Assoc. Prof. Dr. Chuntao Ding.  <br>
 My research interests include **Edge Intelligence / Edge AI**, **Model Compression**, and **High-Performance Computing**.
 
 Publications
