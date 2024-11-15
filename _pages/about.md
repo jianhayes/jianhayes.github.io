@@ -13,9 +13,9 @@ redirect_from:
 About Me
 ------
 I'm Jianhang Xie (谢建行), a master student from [School of Computer Science and Technology](http://cs.bjtu.edu.cn/), [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/).  <br>
-I received the B.S. degree in Computer Science and Technology from BJTU, Beijing, China, in 2022. <br>
-I am curruntly working toward a master's degree in Computer Science and Technology with ***BJTU*** and ***Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education***, expected to graduate in 2025.  <br>
-Currently I am ***looking for a Ph.D. candidate position in 25fall/26spring/26fall***.  <br>
+I received the B.S. degree in Computer Science and Technology from BJTU in 2022.
+I am curruntly working toward a master's degree in Computer Science and Technology with ***BJTU*** and ***Key Lab of Big Data & Artificial Intelligence in Transportation, MoE***, expected to graduate in 2025.  <br>
+Currently I am ***looking for a Ph.D. candidate position in 25fall/26spring/26fall***. 
 If you are interested in me, please contact my email: ***xiejianhang@bjtu.edu.cn***, it would be my great honor.
 
 <!--**This is a TEST HOMEPAGE**. -->
