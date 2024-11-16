@@ -20,10 +20,10 @@ Education
 Internship/Visiting/Work Experience
 ======
 * Visiting Research Student, ***City University of Hong Kong (CityUHK)***, HK SAR, China, 2024.12-2025.3 (expected)
-  * Department: Department of Computer Science
+  * Department of Computer Science
   * Supervisor: Zhichao Lu
 * Guest Student, ***Institute of Computing Technology***, ***Chinese Academy of Sciences***, China, 2021.7-2021.9
-  * Department: Parallel Software Research Group, State Key Laboratory of Computer Architecture
+  * Parallel Software Research Group, State Key Laboratory of Computer Architecture
   * Supervisor: Haipeng Jia, Xianyi Zhang
   * Internship work: GPU parallel algorithm optimization via OpenCL for PerfXLab.
 
