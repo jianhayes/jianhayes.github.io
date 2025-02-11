@@ -19,7 +19,7 @@ Education
 
 Internship/Visiting/Work Experience
 ======
-* Visiting Research Student, ***City University of Hong Kong (CityUHK)***, HK SAR, China, 2024.12-2025.3 (expected)
+* Visiting Research Student, ***City University of Hong Kong (CityU)***, Hong Kong SAR, China, 2024.12-2025.3
   * Department of Computer Science
   * Supervisor: Zhichao Lu
 * Guest Student, ***Institute of Computing Technology***, ***Chinese Academy of Sciences***, China, 2021.7-2021.9
@@ -29,7 +29,7 @@ Internship/Visiting/Work Experience
 
 Honors & Awards
 ======
-* ***National Postgraduate Scholarship***, China, 2024-2025
+* ***National Postgraduate Scholarship***, China, 2024
 * ***The 11th Parallel Application Challenge*** (PAC 2023-2024), Best Application 3rd Prize, China, 2024
 
 Skills
