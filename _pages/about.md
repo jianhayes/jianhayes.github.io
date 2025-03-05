@@ -28,7 +28,7 @@ My research interests include **Edge Intelligence / Edge AI**, **Model Compressi
 Publications
 ------
 * **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing*** (TSC), 2025, Accepted.
-* **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference Web Services*** (ICWS), 2024, pp.888-898.
+* **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference on Web Services*** (ICWS), 2024, pp.888-898.
 <!--   <br>
   (***IEEE ICWS***, **<font color=red>CCF-B</font>**) -->
 
