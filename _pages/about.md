@@ -22,13 +22,13 @@ If you are interested in my works, please contact my email: ***xiejianhang@bjtu.
 
 About Laboratory and Research 
 ------
-My master supervisors are [Prof. Dr. Yidong Li](http://faculty.bjtu.edu.cn/8408/) and Assoc. Prof. Dr. Chuntao Ding.  <br>
-My research interests include **Edge Intelligence / Edge AI**, **Model Compression**, and **High-Performance Computing**.
+My master supervisors are Prof. Dr. Yidong Li and Assoc. Prof. Dr. Chuntao Ding.  <br>
+My research interests include **Edge AI**, **Efficient Deep Learning**, **Model Compression**, and **High-Performance Computing**.
 
 Publications
 ------
-* **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing*** (TSC), 2025, Accepted.
-* **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference on Web Services*** (ICWS), 2024, pp.888-898.
+* **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing***, 2025, Accepted.
+* **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898.
 <!--   <br>
   (***IEEE ICWS***, **<font color=red>CCF-B</font>**) -->
 
@@ -41,7 +41,7 @@ Github Pages theme is forked from [academicpages](https://github.com/academicpag
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Yb8J9tkAAAAJ) / [Github](https://github.com/jianhayes) / [DBLP](https://dblp.org/pid/388/4016.html)
 
 <!--
-
+[](http://faculty.bjtu.edu.cn/8408/)
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
