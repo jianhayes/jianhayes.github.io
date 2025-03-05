@@ -28,7 +28,7 @@ Experience
 * Guest Student, ***Institute of Computing Technology***, ***Chinese Academy of Sciences***, China, 2021.7-2021.9
   * Parallel Software Research Group, State Key Laboratory of Computer Architecture
   * Supervisor: Haipeng Jia, Xianyi Zhang
-  * Research on GPU parallel algorithm optimization via OpenCL for PerfXLab (Beijing) Technologies Co., Ltd.
+  * Research on GPU parallel algorithm optimization via OpenCL for PerfXLab (Beijing) Technologies.
 
 Honors & Awards
 ======
