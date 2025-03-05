@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* M.S. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University (BJTU)***, China, 2022-2025
+* M.S. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University***, China, 2022-2025
   * Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education
   * School of Computer Science and Technology
 
-* B.Eng. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University (BJTU)***, China, 2018-2022
+* B.Eng. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University***, China, 2018-2022
   * School of Computer and Information Technology
 
 Internship/Visiting/Work Experience
