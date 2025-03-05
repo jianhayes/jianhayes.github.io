@@ -19,15 +19,16 @@ Education
 * B.Eng. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University***, China, 2018-2022
   * School of Computer and Information Technology
 
-Internship/Visiting/Work Experience
+Experience
 ======
 * Visiting Research Student, ***City University of Hong Kong (CityU)***, Hong Kong SAR, 2024.12-2025.3
   * Department of Computer Science
   * Supervisor: Zhichao Lu
+  * Research on efficient deep learning and machine learning systems.
 * Guest Student, ***Institute of Computing Technology***, ***Chinese Academy of Sciences***, China, 2021.7-2021.9
   * Parallel Software Research Group, State Key Laboratory of Computer Architecture
   * Supervisor: Haipeng Jia, Xianyi Zhang
-  * Internship work: GPU parallel algorithm optimization via OpenCL for PerfXLab.
+  * Research on GPU parallel algorithm optimization via OpenCL for PerfXLab (Beijing) Technologies Co., Ltd.
 
 Honors & Awards
 ======
@@ -43,6 +44,7 @@ Skills
   * ONNX, Ncnn
 
 <!--
+Internship/Visiting/Work Internship work
 Publications
 ======
   <ul>{% for post in site.publications %}
