@@ -13,7 +13,8 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * M.S. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University (BJTU)***, China, 2022-2025
-  * Key Laboratory of Big Data & Artificial Intelligence in Transportation (Beijing Jiaotong University), Ministry of Education, and School of Computer Science and Technology
+  * Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education
+  * School of Computer Science and Technology
 
 * B.Eng. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University (BJTU)***, China, 2018-2022
   * School of Computer and Information Technology
