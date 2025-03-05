@@ -12,14 +12,15 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* ***School of Computer Science and Technology***, ***Beijing Jiaotong University***, China, 2022-2025 (expected)
-  * M.S. degree in Computer Science and Technology
-* ***School of Computer and Information Technology***, ***Beijing Jiaotong University***, China, 2018-2022
-  * B.S. degree in Computer Science and Technology
+* M.S. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University (BJTU)***, China, 2022-2025
+  * Key Laboratory of Big Data & Artificial Intelligence in Transportation (Beijing Jiaotong University), Ministry of Education, and School of Computer Science and Technology
+
+* B.Eng. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University (BJTU)***, China, 2018-2022
+  * School of Computer and Information Technology
 
 Internship/Visiting/Work Experience
 ======
-* Visiting Research Student, ***City University of Hong Kong (CityU)***, Hong Kong SAR, China, 2024.12-2025.3
+* Visiting Research Student, ***City University of Hong Kong (CityU)***, Hong Kong SAR, 2024.12-2025.3
   * Department of Computer Science
   * Supervisor: Zhichao Lu
 * Guest Student, ***Institute of Computing Technology***, ***Chinese Academy of Sciences***, China, 2021.7-2021.9
@@ -38,7 +39,7 @@ Skills
 * Python
 * Deep Learning
   * PyTorch, Torch-Npu
-  * ONNX, ncnn
+  * ONNX, Ncnn
 
 <!--
 Publications
