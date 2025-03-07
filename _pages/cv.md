@@ -12,11 +12,12 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* M.S. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University***, China, 2022-2025
+* M.S. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, China, 2022-2025
   * Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education
   * School of Computer Science and Technology
+  * Supervisor: Yidong Li; Co-supervisor: Chuntao Ding
 
-* B.Eng. degree in ***Computer Science and Technology***, ***Beijing Jiaotong University***, China, 2018-2022
+* B.Eng. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, China, 2018-2022
   * School of Computer and Information Technology
 
 Experience
@@ -24,7 +25,7 @@ Experience
 * Visiting Research Student, ***City University of Hong Kong (CityU)***, Hong Kong SAR, 2024.12-2025.3
   * Department of Computer Science
   * Supervisor: Zhichao Lu
-  * Research on efficient deep learning and machine learning systems.
+  
 * Guest Student, ***Institute of Computing Technology***, ***Chinese Academy of Sciences***, China, 2021.7-2021.9
   * Parallel Software Research Group, State Key Laboratory of Computer Architecture
   * Supervisor: Haipeng Jia, Xianyi Zhang
@@ -45,6 +46,7 @@ Skills
 
 <!--
 Internship/Visiting/Work Internship work
+* Research on efficient deep learning and machine learning systems.
 Publications
 ======
   <ul>{% for post in site.publications %}
