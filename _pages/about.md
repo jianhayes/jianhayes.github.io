@@ -27,7 +27,7 @@ My research interests include **Edge AI**, **Efficient Deep Learning**, **Model 
 
 Publications
 ------
-* **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing***, 2025, Accepted.
+* **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing***, vol. no. pp.1-14, 2025, [Early Access](https://doi.org/10.1109/TSC.2025.3552328).
 * **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898.
 <!--   <br>
   (***IEEE ICWS***, **<font color=red>CCF-B</font>**) -->
@@ -38,7 +38,7 @@ More information about me can see links below, which might also be helpful.
 
 Github Pages theme is forked from [academicpages](https://github.com/academicpages/academicpages.github.io).
 
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Yb8J9tkAAAAJ) / [Github](https://github.com/jianhayes) / [DBLP](https://dblp.org/pid/388/4016.html)
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Yb8J9tkAAAAJ) / [ORCID](https://orcid.org/0009-0002-8766-6181) / [Github](https://github.com/jianhayes) / [DBLP](https://dblp.org/pid/388/4016.html) / [IEEEXplore](https://ieeexplore.ieee.org/author/990200420292864)
 
 <!--
 [](http://faculty.bjtu.edu.cn/8408/)
