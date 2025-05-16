@@ -12,23 +12,24 @@ redirect_from:
 
 About Me
 ------
-I'm Jianhang Xie (谢建行), a master student from [School of Computer Science and Technology](http://cs.bjtu.edu.cn/), [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/).  <br>
+I'm Jianhang Xie (谢建行), a master student from School of Computer Science and Technology, Beijing Jiaotong University.  <br>
 I received the B.S. degree in Computer Science and Technology from Beijing Jiaotong University in 2022.
 I am working toward a master's degree in Computer Science and Technology with ***Beijing Jiaotong University*** and ***Key Lab of Big Data & Artificial Intelligence in Transportation, MoE***, expected to graduate in 2025.  <br>
-Currently I am ***looking for a Ph.D. position in 25fall/26spring/26fall***.  <br>
+<!--Currently I am ***looking for a Ph.D. position in 25fall/26spring/26fall***.  <br> -->
+I will be a Ph.D. student of Computer Scicence with CityU in 25fall, under Prof. Zhichao Lu.
 If you are interested in my works, please contact my email: ***xiejianhang@bjtu.edu.cn***, it would be my great honor.
 
 <!--**This is a TEST HOMEPAGE**. -->
 
 About Laboratory and Research 
 ------
-My master supervisors are Prof. Dr. Yidong Li and Assoc. Prof. Dr. Chuntao Ding.  <br>
+My master supervisors are Prof. Yidong Li and Prof. Chuntao Ding.  <br>
 My research interests include **Edge AI**, **Efficient Deep Learning**, **Model Compression**, and **High-Performance Computing**.
 
 Publications
 ------
-* **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Trans. Services Comput.***, vol. no. pp.1-14, 2025, [Early Access](https://doi.org/10.1109/TSC.2025.3552328).
-* **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proc. IEEE Int. Conf. Web Services***, 2024, pp.888-898.
+* **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Trans. Services Comput.***, pp.1-14, 2025. [DOI](https://doi.org/10.1109/TSC.2025.3552328)
+* **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proc. IEEE Int. Conf. Web Services***, 2024, pp.888-898. [DOI](https://doi.org/10.1109/ICWS62655.2024.00107)
 <!--   <br>
   (***IEEE ICWS***, **<font color=red>CCF-B</font>**) -->
 
