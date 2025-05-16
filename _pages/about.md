@@ -24,7 +24,7 @@ If you are interested in my works, please contact my email: ***xiejianhang@bjtu.
 About Laboratory and Research 
 ------
 My master supervisors are Prof. Yidong Li and Prof. Chuntao Ding.  <br>
-My research interests include **Edge AI**, **Efficient Deep Learning**, **Model Compression**, and **High-Performance Computing**.
+My research interests include **Secure Inference**, **Efficient Deep Learning**, **Edge/On-Device AI**, and **Model Compression**.
 
 Publications
 ------
@@ -32,6 +32,10 @@ Publications
 * **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proc. IEEE Int. Conf. Web Services***, 2024, pp.888-898. [DOI](https://doi.org/10.1109/ICWS62655.2024.00107)
 <!--   <br>
   (***IEEE ICWS***, **<font color=red>CCF-B</font>**) -->
+
+Preprints
+------
+* Chuntao Ding, Xu Cao, **Jianhang Xie**, Linin Fan, Shangguang Wang, Zhichao Lu, “LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices.” [ArXiv](https://arxiv.org/abs/2410.16954)
 
 For More Information
 ------
