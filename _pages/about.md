@@ -35,7 +35,7 @@ Publications
 
 Preprints
 ------
-* Chuntao Ding, Xu Cao, **Jianhang Xie**, Linin Fan, Shangguang Wang, Zhichao Lu, “LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices.” [ArXiv](https://arxiv.org/abs/2410.16954)
+* Chuntao Ding, Xu Cao, **Jianhang Xie**, Linlin Fan, Shangguang Wang, Zhichao Lu, “LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices.” [ArXiv](https://arxiv.org/abs/2410.16954)
 
 For More Information
 ------
