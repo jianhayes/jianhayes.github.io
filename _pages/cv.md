@@ -11,7 +11,10 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* Ph.D. student in *Computer Science*, ***City University of Hong Kong***, Hong Kong SAR, 2025- (expected)
+  * Department of Computer Science
+  * Supervisor: Zhichao Lu
+
 * M.S. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, China, 2022-2025
   * Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education
   * School of Computer Science and Technology
