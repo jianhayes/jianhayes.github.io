@@ -24,7 +24,7 @@ About Laboratory and Research
 ------
 My PhD supervisor is Prof. Zhichao Lu. <br>
 My master supervisors are Prof. Yidong Li and Prof. Chuntao Ding. <br>
-My research interests include **Secure Inference**, **Efficient Deep Learning**, and **Edge/On-Device AI**.
+My research interests include **Secure Inference**, **Efficient DL**, and **Edge/On-Device AI**.
 <!--, and **Model Compression**.-->
 
 Publications
