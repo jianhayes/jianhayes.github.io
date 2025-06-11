@@ -12,19 +12,20 @@ redirect_from:
 
 About Me
 ------
-I'm Jianhang Xie (谢建行), a master student from School of Computer Science and Technology, Beijing Jiaotong University.  <br>
-I received the B.Eng. degree in Computer Science and Technology from Beijing Jiaotong University in 2022.
-I am working toward a master's degree in Computer Science and Technology with ***Beijing Jiaotong University*** and ***Key Lab of Big Data & Artificial Intelligence in Transportation, MoE***, expected to graduate in 2025.  <br>
+I'm Jianhang Xie (谢建行), I will be a 25fall Ph.D. student in Computer Scicence at City University of Hong Kong, under Prof. Zhichao Lu. <br>
+<!--a master student from School of Computer Science and Technology, Beijing Jiaotong University.  <br>-->
+I have received the B.Eng. degree in Computer Science and Technology and master's degree in Computer Science and Technology from Beijing Jiaotong University in 2022 and 2025, respectively.  <br>
 <!--Currently I am ***looking for a Ph.D. position in 25fall/26spring/26fall***.  <br> -->
-I will be a Ph.D. student of Computer Scicence with CityU in 25fall, under Prof. Zhichao Lu. <br>
 If you are interested in my works, please contact my email: ***xiejianhang@bjtu.edu.cn***, it would be my great honor.
 
 <!--**This is a TEST HOMEPAGE**. -->
 
 About Laboratory and Research 
 ------
-My master supervisors are Prof. Yidong Li and Prof. Chuntao Ding.  <br>
-My research interests include **Secure Inference**, **Efficient Deep Learning**, **Edge/On-Device AI**, and **Model Compression**.
+My PhD supervisor is Prof. Zhichao Lu. <br>
+My master supervisors are Prof. Yidong Li and Prof. Chuntao Ding. <br>
+My research interests include **Secure Inference**, **Efficient Deep Learning**, and **Edge/On-Device AI**.
+<!--, and **Model Compression**.-->
 
 Publications
 ------
