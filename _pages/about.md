@@ -29,7 +29,7 @@ My research interests include **Secure Inference**, **Efficient DL**, and **Edge
 
 Publications
 ------
-* **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing***, pp.1-14, 2025. [DOI](https://doi.org/10.1109/TSC.2025.3552328)
+* **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing***, vol.18, no.3, pp.1711-1723, 2025. [DOI](https://doi.org/10.1109/TSC.2025.3552328)
 * **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898. [DOI](https://doi.org/10.1109/ICWS62655.2024.00107)
 <!--   <br>
   (***IEEE ICWS***, **<font color=red>CCF-B</font>**) -->
