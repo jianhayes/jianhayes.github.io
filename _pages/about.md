@@ -36,6 +36,8 @@ Publications
 
 Preprints
 ------
+
+* Chuntao Ding, **Jianhang Xie**, Junna Zhang, Salman Raza, Shangguang Wang, Jiannong Cao, “GroupNL: Low-Resource and Robust CNN Design over Cloud and Device.” [ArXiv](https://arxiv.org/abs/2506.12335)
 * Chuntao Ding, Xu Cao, **Jianhang Xie**, Linlin Fan, Shangguang Wang, Zhichao Lu, “LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices.” [ArXiv](https://arxiv.org/abs/2410.16954)
 
 For More Information
