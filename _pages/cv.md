@@ -15,7 +15,7 @@ Education
   * Department of Computer Science
   * Supervisor: Zhichao Lu
 
-* M.S. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, China, 2022-2025
+* M.Eng. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, China, 2022-2025
   * Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education
   * School of Computer Science and Technology
   * Supervisor: Yidong Li; Co-supervisor: Chuntao Ding
