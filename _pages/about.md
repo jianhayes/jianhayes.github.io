@@ -24,7 +24,7 @@ About Laboratory and Research
 ------
 My Ph.D. supervisor is Prof. Zhichao Lu. <br>
 My master supervisors are Prof. Yidong Li and Prof. Chuntao Ding. <br>
-My research interests include **Secure Inference**, **Efficient DL**, and **Edge/On-Device AI**.
+My research interests include **AI Security**, **Efficient DL**, and **Edge/On-Device AI**.
 <!--, and **Model Compression**.-->
 
 Publications
@@ -47,7 +47,7 @@ More information about me can see links below, which might also be helpful.
 
 Github Pages theme is forked from [academicpages](https://github.com/academicpages/academicpages.github.io).
 
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Yb8J9tkAAAAJ) / [ORCID](https://orcid.org/0009-0002-8766-6181) / [Github](https://github.com/jianhayes) / [DBLP](https://dblp.org/pid/388/4016.html) / [IEEEXplore](https://ieeexplore.ieee.org/author/990200420292864)
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Yb8J9tkAAAAJ) / [ORCID](https://orcid.org/0009-0002-8766-6181) / [Github](https://github.com/jianhayes) / [DBLP](https://dblp.org/pid/388/4016.html) / [IEEEXplore](https://ieeexplore.ieee.org/author/990200420292864) / [OpenReview.net](https://openreview.net/profile?id=~Jianhang_Xie2)
 
 <!--
 [](http://faculty.bjtu.edu.cn/8408/)
