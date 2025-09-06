@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D. student in *Computer Science*, ***City University of Hong Kong***, Hong Kong SAR, 2025- (expected)
+* Ph.D. student in *Computer Science*, ***City University of Hong Kong***, Hong Kong SAR, 2025-Present
   * Department of Computer Science
   * Supervisor: Zhichao Lu
 
-* M.Eng. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, China, 2022-2025
+* M.Eng. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, Beijing, 2022-2025
   * Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education
   * School of Computer Science and Technology
   * Supervisor: Yidong Li; Co-supervisor: Chuntao Ding
 
-* B.Eng. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, China, 2018-2022
+* B.Eng. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, Beijing, 2018-2022
   * School of Computer and Information Technology
 
 Experience
 ======
-* Visiting Research Student, ***City University of Hong Kong (CityU)***, Hong Kong SAR, 2024.12-2025.3
+* Visiting Research Student, ***City University of Hong Kong***, Hong Kong SAR, 2024.12-2025.3
   * Department of Computer Science
   * Supervisor: Zhichao Lu
   
-* Guest Student, ***Institute of Computing Technology***, ***Chinese Academy of Sciences***, China, 2021.7-2021.9
+* Guest Student, ***Institute of Computing Technology, Chinese Academy of Sciences***, Beijing, 2021.7-2021.9
   * Parallel Software Research Group, State Key Laboratory of Computer Architecture
   * Supervisor: Haipeng Jia, Xianyi Zhang
   * Research on GPU parallel algorithm optimization via OpenCL for PerfXLab (Beijing) Technologies.
@@ -48,6 +48,7 @@ Skills
 * Deep Learning
   * PyTorch, Torch-Npu
   * ONNX, Ncnn
+* Neural Networts Secure Inference Dev.
 
 <!--
 Internship/Visiting/Work Internship work
