@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ------
-I'm Jianhang Xie (谢建行), I am a Ph.D. student in Computer Scicence at **City University of Hong Kong (CityU)**, under supervisor Prof. Zhichao Lu. <br>
+I'm Jianhang Xie (谢建行), a Ph.D. student in Computer Science at **City University of Hong Kong (CityU)**, under supervisor Prof. Zhichao Lu. <br>
 <!--a master student from School of Computer Science and Technology, Beijing Jiaotong University.  <br>-->
 I have received the B.Eng. degree and master's degree in Computer Science and Technology from **Beijing Jiaotong University (BJTU)** in 2022 and 2025, respectively.  <br>
 <!--Currently I am ***looking for a Ph.D. position in 25fall/26spring/26fall***.  <br> -->
