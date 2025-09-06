@@ -30,13 +30,11 @@ My research interests include **AI Security**, **Efficient Deep Learning**, and 
 Publications
 ------
 * **Jianhang Xie**, Chuntao Ding, Xiaqing Li, Shenyuan Ren, Yidong Li, Zhichao Lu, “NestQuant: Post-Training Integer-Nesting Quantization for On-Device DNN,” ***IEEE Transactions on Mobile Computing***, 2025, pp.1-15. <br>
-  (<font color="#d62728"><u>*CCF-A, IF9.2, Q1*</u></font>) [DOI](https://doi.org/10.1109/TMC.2025.3582583) [ArXiv](https://arxiv.org/abs/2506.17870)
+  (*<u><font color="#d62728">CCF-A, IF9.2, Q1</font></u>*) [DOI](https://doi.org/10.1109/TMC.2025.3582583) [ArXiv](https://arxiv.org/abs/2506.17870)
 * **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing***, vol.18, no.3, pp.1711-1723, 2025. <br>
-  (<font color="#d62728"><u>*CCF-A, IF5.8, Q1*</u></font>) [DOI](https://doi.org/10.1109/TSC.2025.3552328)
+  (*<u><font color="#d62728">CCF-A, IF5.8, Q1</font></u>*) [DOI](https://doi.org/10.1109/TSC.2025.3552328)
 * **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898. <br>
-  (<font color="#d62728"><u>*CCF-B*</u></font>) [DOI](https://doi.org/10.1109/ICWS62655.2024.00107)
-<!--   <br>
-  (***IEEE ICWS***, **<font color=red>CCF-B</font>**) -->
+  (*<u><font color="#d62728">CCF-B</font></u>*) [DOI](https://doi.org/10.1109/ICWS62655.2024.00107)
 
 Preprints
 ------
