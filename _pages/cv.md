@@ -48,7 +48,7 @@ Skills
 * Deep Learning
   * PyTorch, Torch-Npu
   * ONNX, Ncnn
-* Neural Networts Secure Inference Dev.
+* Neural Networks Secure Inference Dev.
 
 <!--
 Internship/Visiting/Work Internship work
