@@ -12,9 +12,9 @@ redirect_from:
 
 About Me
 ------
-I'm Jianhang Xie (谢建行), a Ph.D. student in Computer Science at **City University of Hong Kong (CityU)**, under supervisor Prof. Zhichao Lu. <br>
+I am Jianhang Xie (谢建行), a Ph.D. student in Computer Science at **City University of Hong Kong (CityU)**, under supervisor Prof. Zhichao Lu. <br>
 <!--a master student from School of Computer Science and Technology, Beijing Jiaotong University.  <br>-->
-I have received the B.Eng. degree and master's degree in Computer Science and Technology from **Beijing Jiaotong University (BJTU)** in 2022 and 2025, respectively.  <br>
+I have received the B.Eng. degree and Master's degree in Computer Science and Technology from **Beijing Jiaotong University (BJTU)** in 2022 and 2025, respectively.  <br>
 <!--Currently I am ***looking for a Ph.D. position in 25fall/26spring/26fall***.  <br> -->
 If you are interested in my works, please contact my email: ***jianhaxie3-c@my.cityu.edu.hk*** or ***xiejianhang@bjtu.edu.cn***, it would be my great honor.
 
@@ -34,7 +34,7 @@ Publications
 * **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing***, vol.18, no.3, pp.1711-1723, 2025. <br>
   (*<u><font color="#d62728">CCF-A, IF5.8, JCR Q1, CAS Tier 2 Top</font></u>*) [DOI](https://doi.org/10.1109/TSC.2025.3552328)
 * **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898. <br>
-  (*<u><font color="#d62728">CCF-B</font></u>*) [DOI](https://doi.org/10.1109/ICWS62655.2024.00107)
+  (*<u><font color="#d62728">CCF-B</font></u>*) [DOI](https://doi.org/10.1109/ICWS62655.2024.00107) [PDF](https://drive.google.com/file/d/15hIPDqR_5qxWqwyZP7O39XeyaHZ1CZJg/view)
 
 Preprints
 ------
