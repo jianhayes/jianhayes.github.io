@@ -27,7 +27,7 @@ My research interests include **AI Security**, **Efficient Deep Learning**, and 
 
 Publications
 ------
-* **Jianhang Xie**, Chuntao Ding, Xiaqing Li, Shenyuan Ren, Yidong Li, Zhichao Lu, “NestQuant: Post-Training Integer-Nesting Quantization for On-Device DNN,” ***IEEE Transactions on Mobile Computing***, 2025, pp.1-15. <br>
+* **Jianhang Xie**, Chuntao Ding, Xiaqing Li, Shenyuan Ren, Yidong Li, Zhichao Lu, “NestQuant: Post-Training Integer-Nesting Quantization for On-Device DNN,” ***IEEE Transactions on Mobile Computing***, 2025, vol.24, no.11, pp.12088-12102. <br>
   (*<u><font color="#d62728">CCF-A, IF9.2, JCR Q1, CAS Tier 1 Top</font></u>*) [DOI](https://doi.org/10.1109/TMC.2025.3582583) [ArXiv](https://arxiv.org/abs/2506.17870) [REPO](https://github.com/jianhayes/NESTQUANT)
 * **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing***, vol.18, no.3, pp.1711-1723, 2025. <br>
   (*<u><font color="#d62728">CCF-A, IF5.8, JCR Q1, CAS Tier 2 Top</font></u>*) [DOI](https://doi.org/10.1109/TSC.2025.3552328)
