@@ -43,12 +43,14 @@ Honors & Awards
 
 Skills
 ======
-* C/C++
-* Python
+* Programming
+  * C/C++, Python
 * Deep Learning
-  * PyTorch, Torch-Npu
+  * PyTorch
+* Edge Deployment
   * ONNX, Ncnn
-* Neural Networks Secure Inference Dev.
+* AI Secure Inference Development
+  * Microsoft SEAL, PhantomFHE
 
 <!--
 Internship/Visiting/Work Internship work
