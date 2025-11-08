@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jianhang XIE"
-  avatar           : "jhx.png"
+  avatar           : "linkedin_xjh_25.jpg"
   bio              : 
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jianhaxie3-c@my.cityu.edu.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=Yb8J9tkAAAAJ&hl=en"
+  email            : "jianhang.xie@my.cityu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
