@@ -21,30 +21,40 @@ it would be my great honor.
 
 About Laboratory and Research 
 ------
-My Ph.D. supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en). [Lab Website](https://optima.cs.cityu.edu.hk/) <br>
+My Ph.D. supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en), at [Optima Group@CityU](https://optima.cs.cityu.edu.hk/) <br>
 My master supervisor is [Prof. Yidong Li](https://dblp.org/pid/40/7652.html), and under the co-supervision of [Prof. Chuntao Ding](https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=en). <br>
 My research interests include **AI Security**, **Efficient Deep Learning**, and **Edge AI**.
 
 Publications
 ------
-* **Jianhang Xie**, Chuntao Ding, Xiaqing Li, Shenyuan Ren, Yidong Li, Zhichao Lu, “NestQuant: Post-Training Integer-Nesting Quantization for On-Device DNN,” ***IEEE Transactions on Mobile Computing***, vol.24, no.11, pp.12088-12102, 2025. <br>
-  (*<u><font color="#d62728">CCF-A, IF9.2, JCR Q1, CAS Tier 1 Top</font></u>*) [DOI](https://doi.org/10.1109/TMC.2025.3582583) [ArXiv](https://arxiv.org/abs/2506.17870) [REPO](https://github.com/jianhayes/NESTQUANT)
-* **Jianhang Xie**, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, “ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services,” ***IEEE Transactions on Services Computing***, vol.18, no.3, pp.1711-1723, 2025. <br>
-  (*<u><font color="#d62728">CCF-A, IF5.8, JCR Q1, CAS Tier 2 Top</font></u>*) [DOI](https://doi.org/10.1109/TSC.2025.3552328)
-* **Jianhang Xie**, Chuntao Ding, Shenyuan Ren, Yidong Li, “Multi-Vision Services Acceleration Framework for IoT Devices,” in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898. <br>
-  (*<u><font color="#d62728">CCF-B</font></u>*) [DOI](https://doi.org/10.1109/ICWS62655.2024.00107) [PDF](https://drive.google.com/file/d/15hIPDqR_5qxWqwyZP7O39XeyaHZ1CZJg/view)
+* **NestQuant: Post-Training Integer-Nesting Quantization for On-Device DNN**. <br>
+<u>Jianhang Xie</u>, Chuntao Ding, Xiaqing Li, Shenyuan Ren, Yidong Li, Zhichao Lu, <br>
+***IEEE Transactions on Mobile Computing***, vol.24, no.11, pp.12088-12102, 2025. <br>
+  (*<font color="#d62728">CCF-A, IF9.2, JCR Q1, CAS Tier 1 Top</font>*) [DOI](https://doi.org/10.1109/TMC.2025.3582583) [ArXiv](https://arxiv.org/abs/2506.17870) [REPO](https://github.com/jianhayes/NESTQUANT)
+* **ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services**. <br>
+<u>Jianhang Xie</u>, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, <br>
+***IEEE Transactions on Services Computing***, vol.18, no.3, pp.1711-1723, 2025. <br>
+  (*<font color="#d62728">CCF-A, IF5.8, JCR Q1, CAS Tier 2 Top</font>*) [DOI](https://doi.org/10.1109/TSC.2025.3552328)
+* **Multi-Vision Services Acceleration Framework for IoT Devices**. <br>
+<u>Jianhang Xie</u>, Chuntao Ding, Shenyuan Ren, Yidong Li, <br>
+in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898. <br>
+  (*<font color="#d62728">CCF-B</font>*) [DOI](https://doi.org/10.1109/ICWS62655.2024.00107) [PDF](https://drive.google.com/file/d/15hIPDqR_5qxWqwyZP7O39XeyaHZ1CZJg/view)
 
 Preprints
 ------
-* Chuntao Ding, **Jianhang Xie**, Junna Zhang, Salman Raza, Shangguang Wang, Jiannong Cao, “GroupNL: Low-Resource and Robust CNN Design over Cloud and Device.” [ArXiv](https://arxiv.org/abs/2506.12335)
-* Chuntao Ding, Xu Cao, **Jianhang Xie**, Linlin Fan, Shangguang Wang, Zhichao Lu, “LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices.” [ArXiv](https://arxiv.org/abs/2410.16954)
+* **GroupNL: Low-Resource and Robust CNN Design over Cloud and Device**. <br>
+Chuntao Ding, <u>Jianhang Xie</u>, Junna Zhang, Salman Raza, Shangguang Wang, Jiannong Cao, <br>
+[ArXiv](https://arxiv.org/abs/2506.12335)
+* **LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices**. <br>
+Chuntao Ding, Xu Cao, <u>Jianhang Xie</u>, Linlin Fan, Shangguang Wang, Zhichao Lu, <br>
+[ArXiv](https://arxiv.org/abs/2410.16954)
 
 For More Information
 ------
 More information about me can see links below, which might also be helpful. <br>
 Github Pages theme is forked from [academicpages](https://github.com/academicpages/academicpages.github.io). <br>
 Quick Links: <br>
-[Google Scholar](https://scholar.google.com/citations?user=Yb8J9tkAAAAJ&hl=en) / [ORCID](https://orcid.org/0009-0002-8766-6181) / [Github](https://github.com/jianhayes) / [DBLP](https://dblp.org/pid/388/4016.html) / [IEEEXpl](https://ieeexplore.ieee.org/author/990200420292864) / [OpenReview.net](https://openreview.net/profile?id=~Jianhang_Xie2)
+[Google Scholar](https://scholar.google.com/citations?user=Yb8J9tkAAAAJ&hl=en) / [ORCID](https://orcid.org/0009-0002-8766-6181) / [Github](https://github.com/jianhayes) / [DBLP](https://dblp.org/pid/388/4016.html) / [OpenReview.net](https://openreview.net/profile?id=~Jianhang_Xie2) / [IEEEXplore](https://ieeexplore.ieee.org/author/990200420292864)
 
 <!--
 [](http://faculty.bjtu.edu.cn/8408/)
