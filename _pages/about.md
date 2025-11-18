@@ -54,7 +54,8 @@ For More Information
 More information about me can see links below, which might also be helpful. <br>
 Github Pages theme is forked from [academicpages](https://github.com/academicpages/academicpages.github.io). <br>
 Quick Links: <br>
-[Google Scholar](https://scholar.google.com/citations?user=Yb8J9tkAAAAJ&hl=en) / [ORCID](https://orcid.org/0009-0002-8766-6181) / [Github](https://github.com/jianhayes) / [DBLP](https://dblp.org/pid/388/4016.html) / [OpenReview.net](https://openreview.net/profile?id=~Jianhang_Xie2) / [IEEEXplore](https://ieeexplore.ieee.org/author/990200420292864)
+[Google Scholar](https://scholar.google.com/citations?user=Yb8J9tkAAAAJ&hl=en) / [ORCID](https://orcid.org/0009-0002-8766-6181) / [Github](https://github.com/jianhayes) / [DBLP](https://dblp.org/pid/388/4016.html) / [OpenReview.net](https://openreview.net/profile?id=~Jianhang_Xie2) 
+<!--/ [IEEEXplore](https://ieeexplore.ieee.org/author/990200420292864)-->
 
 <!--
 [](http://faculty.bjtu.edu.cn/8408/)
