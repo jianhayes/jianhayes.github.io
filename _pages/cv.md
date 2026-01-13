@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D. student in *Computer Science*, ***City University of Hong Kong***, Hong Kong SAR, 2025-Present
   * Department of Computer Science
+  * Learning and Optimization for Machine Intelligence (Optima) research group
   * Supervisor: Zhichao Lu
 
 * M.Eng. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, Beijing, 2022-2025
