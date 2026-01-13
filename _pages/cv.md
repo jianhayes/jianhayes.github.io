@@ -59,6 +59,11 @@ Services
   * IEEE Transactions on Artificial Intelligence
   * IEEE ICWS 2024
 
+Teaching
+======
+* Teaching Assistant, CS5491 Artificial Intelligence, 2025/26 Sem B, CityU
+* Teaching Assistant, CS2116 Computer Systems, 2025/26 Sem A, CityU
+
 <!--
 Internship/Visiting/Work Internship work
 * Research on efficient deep learning and machine learning systems.
