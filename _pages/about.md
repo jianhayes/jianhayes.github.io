@@ -28,7 +28,7 @@ My research interests include **AI Security**, **Efficient Deep Learning**, and 
 Publications
 ------
 * **GroupNL: Low-Resource and Robust CNN Design over Cloud and Device**. <br>
-Chuntao Ding, <u>Jianhang Xie*</u>, Junna Zhang, Salman Raza, Shangguang Wang, Jiannong Cao, <br>
+Chuntao Ding<sup>#</sup>, <u>Jianhang Xie<sup>#,*</sup></u>, Junna Zhang<sup>*</sup>, Salman Raza, Shangguang Wang, Jiannong Cao, <br>
 ***IEEE Transactions on Mobile Computing***, Accepted, 2026. <br>
   (*<font color="#d62728">CCF-A, IF9.2, JCR Q1, CAS Tier 1 Top</font>*) [ArXiv](https://arxiv.org/abs/2506.12335)
 * **NestQuant: Post-Training Integer-Nesting Quantization for On-Device DNN**. <br>
