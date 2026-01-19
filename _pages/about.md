@@ -13,7 +13,7 @@ redirect_from:
 About Me
 ------
 I am Jianhang Xie (谢建行), a Ph.D. student at Department of Computer Science, **City University of Hong Kong (CityU)**, under the supervision of Prof. Zhichao Lu. <br>
-Before joining CityU, I received my B.Eng. degree and Master's degree in Computer Science and Technology from **Beijing Jiaotong University (BJTU)** in 2022 and 2025, respectively.  <br>
+Before joining CityU, I received my B.Eng. degree and M.Eng. degree in Computer Science and Technology from **Beijing Jiaotong University (BJTU)** in 2022 and 2025, respectively.  <br>
 If you are interested in my works, please contact my email: <br>
   ***jianhang.xie[AT]my.cityu.edu.hk*** or ***jianhaxie3-c[AT]my.cityu.edu.hk*** <br>
   ***xiejianhang[AT]bjtu.edu.cn*** <br>
@@ -21,7 +21,7 @@ it would be my great honor.
 
 About Laboratory and Research 
 ------
-My Ph.D. supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en), at [Optima Group@CityU](https://optima.cs.cityu.edu.hk/) <br>
+My Ph.D. supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en), at [Optima Group@CityU](https://optima.cs.cityu.edu.hk/). <br>
 My master supervisor is [Prof. Yidong Li](https://dblp.org/pid/40/7652.html), and under the co-supervision of [Prof. Chuntao Ding](https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=en). <br>
 My research interests include **AI Security**, **Efficient Deep Learning**, and **Edge AI**.
 
@@ -30,19 +30,19 @@ Publications
 * **GroupNL: Low-Resource and Robust CNN Design over Cloud and Device**. <br>
 Chuntao Ding<sup>#</sup>, <u>Jianhang Xie</u><sup>#,</sup>\*, Junna Zhang\*, Salman Raza, Shangguang Wang, Jiannong Cao, <br>
 ***IEEE Transactions on Mobile Computing***, Accepted, 2026. <br>
-  (*<font color="#d62728">CCF-A, IF9.2, JCR Q1, CAS Tier 1 Top</font>*) [ArXiv](https://arxiv.org/abs/2506.12335) [REPO](https://github.com/jianhayes/GroupNL)
+  (*<font color="#d62728">TMC, CCF-A</font>*) [ArXiv](https://arxiv.org/abs/2506.12335) [REPO](https://github.com/jianhayes/GroupNL)
 * **NestQuant: Post-Training Integer-Nesting Quantization for On-Device DNN**. <br>
 <u>Jianhang Xie</u>, Chuntao Ding, Xiaqing Li, Shenyuan Ren, Yidong Li, Zhichao Lu, <br>
 ***IEEE Transactions on Mobile Computing***, vol.24, no.11, pp.12088-12102, 2025. <br>
-  (*<font color="#d62728">CCF-A, IF9.2, JCR Q1, CAS Tier 1 Top</font>*) [DOI](https://doi.org/10.1109/TMC.2025.3582583) [ArXiv](https://arxiv.org/abs/2506.17870) [REPO](https://github.com/jianhayes/NESTQUANT)
+  (*<font color="#d62728">TMC, CCF-A</font>*) [DOI](https://doi.org/10.1109/TMC.2025.3582583) [ArXiv](https://arxiv.org/abs/2506.17870) [REPO](https://github.com/jianhayes/NESTQUANT)
 * **ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services**. <br>
 <u>Jianhang Xie</u>, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, <br>
 ***IEEE Transactions on Services Computing***, vol.18, no.3, pp.1711-1723, 2025. <br>
-  (*<font color="#d62728">CCF-A, IF5.8, JCR Q1, CAS Tier 2 Top</font>*) [DOI](https://doi.org/10.1109/TSC.2025.3552328)
+  (*<font color="#d62728">TSC, CCF-A</font>*) [DOI](https://doi.org/10.1109/TSC.2025.3552328)
 * **Multi-Vision Services Acceleration Framework for IoT Devices**. <br>
 <u>Jianhang Xie</u>, Chuntao Ding, Shenyuan Ren, Yidong Li, <br>
 in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898. <br>
-  (*<font color="#d62728">CCF-B</font>*) [DOI](https://doi.org/10.1109/ICWS62655.2024.00107) [PDF](https://drive.google.com/file/d/15hIPDqR_5qxWqwyZP7O39XeyaHZ1CZJg/view)
+  (*<font color="#d62728">ICWS, CCF-B</font>*) [DOI](https://doi.org/10.1109/ICWS62655.2024.00107) [PDF](https://drive.google.com/file/d/15hIPDqR_5qxWqwyZP7O39XeyaHZ1CZJg/view)
 
 **\#**: Contributed equally to this work. <br>
 **\***: Corresponding author.
