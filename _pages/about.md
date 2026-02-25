@@ -30,19 +30,19 @@ Publications
 * **GroupNL: Low-Resource and Robust CNN Design over Cloud and Device**. <br>
 Chuntao Ding<sup>#</sup>, <u>Jianhang Xie</u><sup>#,</sup>\*, Junna Zhang\*, Salman Raza, Shangguang Wang, Jiannong Cao, <br>
 ***IEEE Transactions on Mobile Computing***, Accepted, 2026. <br>
-  (*<font color="#d62728">TMC, CCF-A</font>*) [DOI](https://doi.org/10.1109/TMC.2026.3655770) [ArXiv](https://arxiv.org/abs/2506.12335) [REPO](https://github.com/jianhayes/GroupNL) 
+  (*<font color="#d62728">TMC, CCF-A</font>*) [[DOI]](https://doi.org/10.1109/TMC.2026.3655770) [[ArXiv]](https://arxiv.org/abs/2506.12335) [[Github]](https://github.com/jianhayes/GroupNL) 
 * **NestQuant: Post-Training Integer-Nesting Quantization for On-Device DNN**. <br>
 <u>Jianhang Xie</u>, Chuntao Ding, Xiaqing Li, Shenyuan Ren, Yidong Li, Zhichao Lu, <br>
 ***IEEE Transactions on Mobile Computing***, vol.24, no.11, pp.12088-12102, 2025. <br>
-  (*<font color="#d62728">TMC, CCF-A</font>*) [DOI](https://doi.org/10.1109/TMC.2025.3582583) [ArXiv](https://arxiv.org/abs/2506.17870) [REPO](https://github.com/jianhayes/NESTQUANT)
+  (*<font color="#d62728">TMC, CCF-A</font>*) [[DOI]](https://doi.org/10.1109/TMC.2025.3582583) [[ArXiv]](https://arxiv.org/abs/2506.17870) [[Github]](https://github.com/jianhayes/NESTQUANT)
 * **ReFrame: A Resource-Friendly Cloud-Assisted On-Device Deep Learning Framework for Vision Services**. <br>
 <u>Jianhang Xie</u>, Chuntao Ding, Qingji Guan, Ao Zhou, Yidong Li, <br>
 ***IEEE Transactions on Services Computing***, vol.18, no.3, pp.1711-1723, 2025. <br>
-  (*<font color="#d62728">TSC, CCF-A</font>*) [DOI](https://doi.org/10.1109/TSC.2025.3552328)
+  (*<font color="#d62728">TSC, CCF-A</font>*) [[DOI]](https://doi.org/10.1109/TSC.2025.3552328) [[Accepted Manuscript]](https://drive.google.com/file/d/1OMlm8BM0OmuZ9vAYw8Gq1zW_nL07bPnq/view) [[Github]](https://github.com/jianhayes/ReFrame)
 * **Multi-Vision Services Acceleration Framework for IoT Devices**. <br>
 <u>Jianhang Xie</u>, Chuntao Ding, Shenyuan Ren, Yidong Li, <br>
 in ***Proceedings of the IEEE International Conference on Web Services***, 2024, pp.888-898. <br>
-  (*<font color="#d62728">ICWS, CCF-B</font>*) [DOI](https://doi.org/10.1109/ICWS62655.2024.00107) [PDF](https://drive.google.com/file/d/15hIPDqR_5qxWqwyZP7O39XeyaHZ1CZJg/view)
+  (*<font color="#d62728">ICWS, CCF-B</font>*) [[DOI]](https://doi.org/10.1109/ICWS62655.2024.00107) [[Accepted Manuscript]](https://drive.google.com/file/d/15hIPDqR_5qxWqwyZP7O39XeyaHZ1CZJg/view) [[Github]](https://github.com/jianhayes/RepMCBNet)
 
 **\#**: Contributed equally to this work. <br>
 **\***: Corresponding author.
@@ -51,7 +51,7 @@ Preprints
 ------
 * **LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices**. <br>
 Chuntao Ding, Xu Cao, <u>Jianhang Xie</u>, Linlin Fan, Shangguang Wang, Zhichao Lu, <br>
-[ArXiv](https://arxiv.org/abs/2410.16954)
+[[ArXiv]](https://arxiv.org/abs/2410.16954) [[Github]](https://github.com/alexyyds2024/lora-C)
 
 For More Information
 ------
