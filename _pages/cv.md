@@ -11,37 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D. student in *Computer Science*, ***City University of Hong Kong***, Hong Kong SAR, 2025-Present
+* PhD student in *Computer Science*, ***City University of Hong Kong***, Hong Kong SAR, 2025-Present
   * Department of Computer Science
   * Learning and Optimization for Machine Intelligence (Optima) research group
   * Supervisor: Zhichao Lu
 
-* M.Eng. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, Beijing, 2022-2025
+* MEng degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, Beijing, 2022-2025
   * Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education
   * School of Computer Science and Technology
   * Supervisor: Yidong Li; Co-supervisor: Chuntao Ding
 
-* B.Eng. degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, Beijing, 2018-2022
+* BEng degree in *Computer Science and Technology*, ***Beijing Jiaotong University***, Beijing, 2018-2022
   * School of Computer and Information Technology
 
 Experience
 ======
-* Visiting Research Student, ***City University of Hong Kong***, Hong Kong SAR, 2024.12-2025.3
+* Visiting Research Student, ***City University of Hong Kong***, Hong Kong SAR, Dec 2024 - Mar 2025
   * Department of Computer Science
-  * Supervisor: Zhichao Lu
+  * Supervisor: Prof Zhichao Lu
   
-* Guest Student, ***Institute of Computing Technology, Chinese Academy of Sciences***, Beijing, 2021.7-2021.9
+* Guest Student, ***Institute of Computing Technology, Chinese Academy of Sciences***, Beijing, Jul 2021 - Sep 2021
   * Parallel Software Research Group, State Key Laboratory of Computer Architecture
-  * Supervisor: Haipeng Jia, Xianyi Zhang
+  * Supervisor: Prof Haipeng Jia, Dr Xianyi Zhang
   * Research on GPU parallel algorithm optimization via OpenCL for PerfXLab (Beijing) Technologies.
 
 Honors & Awards
 ======
 * ***Outstanding Postgraduate of Beijing Jiaotong University***, China, 2025
 * ***National Postgraduate Scholarship***, China, 2024
-* ***“Top Talents Worldwide Famous Laboratories Research Scholarships” of Beijing Jiaotong University***, China, 2024
+* ***“Top Talents Worldwide Famous Laboratories Research Scholarships” of Beijing Jiaotong University (北京交通大学拔尖人才全球知名实验室科研奖学金)***, China, 2024
 * ***The 11th Parallel Application Challenge*** (PAC 2023-2024), Best Application 3rd Prize, China, 2024
 
+<!--
 Skills
 ======
 * Programming
@@ -52,6 +53,7 @@ Skills
   * ONNX, Ncnn
 * AI Secure Inference Development
   * Microsoft SEAL, PhantomFHE
+-->
 
 Services
 ======
