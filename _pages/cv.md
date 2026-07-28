@@ -38,9 +38,9 @@ Experience
 Honors & Awards
 ======
 * ***Outstanding Postgraduate of Beijing Jiaotong University***, China, 2025
-* ***National Postgraduate Scholarship***, China, 2024
+* ***National Postgraduate Scholarship (国家奖学金)***, China, 2024
 * ***“Top Talents Worldwide Famous Laboratories Research Scholarships” of Beijing Jiaotong University (北京交通大学拔尖人才全球知名实验室科研奖学金)***, China, 2024
-* ***The 11th Parallel Application Challenge*** (PAC 2023-2024), Best Application 3rd Prize, China, 2024
+* ***The 11th Parallel Application Challenge***, Best Application 3rd Prize, China, 2024
 
 <!--
 Skills
