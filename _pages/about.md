@@ -23,7 +23,7 @@ About Laboratory and Research
 ------
 My Ph.D. supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en), at [Optima Group@CityU](https://optima.cs.cityu.edu.hk/). <br>
 My master supervisor is [Prof. Yidong Li](https://dblp.org/pid/40/7652.html), and under the co-supervision of [Prof. Chuntao Ding](https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=en). <br>
-My research interests include **AI Security**, **Efficient Deep Learning**, and **Edge AI**.
+My research interests include **Secure Inference** (especially in *Efficient FHE Neural Network* & *FHE Inference System*) and **Efficient Deep Learning Systems**.
 
 Publications
 ------
@@ -49,6 +49,10 @@ in ***Proceedings of the IEEE International Conference on Web Services***, 2024,
 
 Preprints
 ------
+* **ATLAS: Automated Approximation of Transformers for Efficient Homomorphic Inference in One Hour**. <br>
+<u>Jianhang Xie</u>, Sicheng Tan, Vishnu Naresh Boddeti, Zhichao Lu, <br>
+[[ArXiv]](https://arxiv.org/abs/2607.23478) [[Github]](https://github.com/jianhayes/ATLAS)
+
 * **LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices**. <br>
 Chuntao Ding, Xu Cao, <u>Jianhang Xie</u>, Linlin Fan, Shangguang Wang, Zhichao Lu, <br>
 [[ArXiv]](https://arxiv.org/abs/2410.16954) [[Github]](https://github.com/alexyyds2024/lora-C)
