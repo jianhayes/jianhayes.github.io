@@ -12,15 +12,15 @@ redirect_from:
 
 About Me
 ------
-I am Jianhang Xie (谢建行), a Ph.D. student at Department of Computer Science, **City University of Hong Kong (CityU)**, under the supervision of Prof. Zhichao Lu. <br>
-Before joining CityU, I received my B.Eng. degree and M.Eng. degree in Computer Science and Technology from **Beijing Jiaotong University (BJTU)** in 2022 and 2025, respectively.  <br>
+I am Jianhang Xie (谢建行), a PhD student at Department of Computer Science, **City University of Hong Kong (CityU)**, under the supervision of Prof. Zhichao Lu. <br>
+Before joining CityU, I received my BEng degree and MEng degree in Computer Science and Technology from **Beijing Jiaotong University (BJTU)** in 2022 and 2025, respectively.  <br>
 If you are interested in my works, please contact my email: <br>
   ***jianhang.xie[AT]my.cityu.edu.hk*** or ***xiejianhang[AT]bjtu.edu.cn*** <br>
 it would be my great honor.
 
 About Laboratory and Research 
 ------
-My Ph.D. supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en), at [Optima Group@CityU](https://optima.cs.cityu.edu.hk/). <br>
+My PhD supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en), at [Optima Group@CityU](https://optima.cs.cityu.edu.hk/). <br>
 My master supervisor is [Prof. Yidong Li](https://dblp.org/pid/40/7652.html), and under the co-supervision of [Prof. Chuntao Ding](https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=en). <br>
 My research interests include **Secure Inference** (especially in *Efficient FHE Neural Network* & *FHE Inference System*) and **Efficient Deep Learning Systems**.
 
