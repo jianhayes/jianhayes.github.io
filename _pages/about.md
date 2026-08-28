@@ -19,7 +19,7 @@ I would be honored if you are interested in my work. Please feel free to reach o
 
 About Laboratory and Research 
 ------
-My PhD supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en). I am also a member of the [Optima Group@CityU](https://optima.cs.cityu.edu.hk/), led by [Prof. Qingfu ZHANG](https://scholar.google.com/citations?user=nhL9PHwAAAAJ&hl=en) and Prof. Zhichao Lu. <br>
+My PhD supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en). I am also a member of the [Optima Group@CityU](https://optima.cs.cityu.edu.hk/), led by [Prof. Qingfu Zhang](https://scholar.google.com/citations?user=nhL9PHwAAAAJ&hl=en) and Prof. Zhichao Lu. <br>
 My master supervisor is [Prof. Yidong Li](https://dblp.org/pid/40/7652.html), and under the co-supervision of [Prof. Chuntao Ding](https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=en). <br>
 My research interests include **Secure Inference** (especially in *Efficient FHE Neural Network* & *FHE Inference System*) and **Efficient Deep Learning Systems**.
 
