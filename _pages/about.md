@@ -12,15 +12,14 @@ redirect_from:
 
 About Me
 ------
-I am Jianhang Xie (谢建行), a PhD student at Department of Computer Science, **City University of Hong Kong (CityU)**, under the supervision of Prof. Zhichao Lu. <br>
-Before joining CityU, I received my BEng degree and MEng degree in Computer Science and Technology from **Beijing Jiaotong University (BJTU)** in 2022 and 2025, respectively.  <br>
-If you are interested in my works, please contact my email: <br>
+I am Jianhang Xie (谢建行), a PhD student in the Department of Computer Science at **City University of Hong Kong (CityU)**, supervised by Prof. Zhichao Lu. <br>
+Prior to that, I obtained my BEng and MEng degree in Computer Science and Technology from **Beijing Jiaotong University (BJTU)** in 2022 and 2025, respectively.  <br>
+I would be honored if you are interested in my work. Please feel free to reach out to me via the following emails: <br>
   ***jianhang.xie[AT]my.cityu.edu.hk*** or ***xiejianhang[AT]bjtu.edu.cn*** <br>
-it would be my great honor.
 
 About Laboratory and Research 
 ------
-My PhD supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en), at [Optima Group@CityU](https://optima.cs.cityu.edu.hk/). <br>
+My PhD supervisor is [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en). I am also a member of the [Optima Group@CityU](https://optima.cs.cityu.edu.hk/), led by [Prof. Qingfu ZHANG](https://scholar.google.com/citations?user=nhL9PHwAAAAJ&hl=en) and Prof. Zhichao Lu. <br>
 My master supervisor is [Prof. Yidong Li](https://dblp.org/pid/40/7652.html), and under the co-supervision of [Prof. Chuntao Ding](https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=en). <br>
 My research interests include **Secure Inference** (especially in *Efficient FHE Neural Network* & *FHE Inference System*) and **Efficient Deep Learning Systems**.
 
@@ -29,7 +28,7 @@ Publications / Preprints
 * **ATLAS: Automated Approximation of Transformers for Efficient Homomorphic Inference in One Hour**. <br>
 <u>Jianhang Xie</u>, Sicheng Tan, Vishnu Naresh Boddeti, Zhichao Lu, <br>
 arXiv preprint arXiv:2607.23478, 2026. <br>
-[[ArXiv]](https://arxiv.org/abs/2607.23478) [[Github]](https://github.com/jianhayes/ATLAS)
+[[ArXiv]](https://arxiv.org/abs/2607.23478) [[ePrint]](https://eprint.iacr.org/2026/1817) [[Github]](https://github.com/jianhayes/ATLAS)
 
 * **GroupNL: Low-Resource and Robust CNN Design over Cloud and Device**. <br>
 Chuntao Ding<sup>#</sup>, <u>Jianhang Xie</u><sup>#,</sup>\*, Junna Zhang\*, Salman Raza, Shangguang Wang, Jiannong Cao, <br>
