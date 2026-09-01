@@ -37,6 +37,7 @@ Experience
 
 Honors & Awards
 ======
+<!--* ***Outstanding Academic Performance Award for Research Degree Students of City University of Hong Kong***, Hong Kong SAR, 2026-->
 * ***Outstanding Postgraduate of Beijing Jiaotong University***, China, 2025
 * ***National Postgraduate Scholarship (国家奖学金)***, China, 2024
 * ***“Top Talents Worldwide Famous Laboratories Research Scholarships” of Beijing Jiaotong University (北京交通大学拔尖人才全球知名实验室科研奖学金)***, China, 2024
@@ -65,7 +66,7 @@ Services
 Teaching
 ======
 * Teaching Assistant, CS5491 Artificial Intelligence, 2025/26 Sem B, CityU
-* Teaching Assistant, CS2116 Computer Systems, 2025/26 Sem A, CityU
+* Teaching Assistant, CS2116 Computer Systems, 2025/26 & 2026/27 Sem A, CityU
 
 <!--
 Internship/Visiting/Work Internship work
