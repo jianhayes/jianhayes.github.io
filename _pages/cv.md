@@ -37,7 +37,7 @@ Experience
 
 Honors & Awards
 ======
-<!--* ***Outstanding Academic Performance Award for Research Degree Students of City University of Hong Kong***, Hong Kong SAR, 2026-->
+* ***Outstanding Academic Performance Award for Research Degree Students, City University of Hong Kong***, Hong Kong SAR, 2026
 * ***Outstanding Postgraduate of Beijing Jiaotong University***, China, 2025
 * ***National Postgraduate Scholarship (国家奖学金)***, China, 2024
 * ***“Top Talents Worldwide Famous Laboratories Research Scholarships” of Beijing Jiaotong University (北京交通大学拔尖人才全球知名实验室科研奖学金)***, China, 2024
